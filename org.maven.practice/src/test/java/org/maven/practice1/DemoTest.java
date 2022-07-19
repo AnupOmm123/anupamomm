@@ -8,6 +8,7 @@ public class DemoTest
 	public void demotest()
 	{
 		System.out.println("hiinji");
+		System.out.println("Ram");
 	}
 }
 	
