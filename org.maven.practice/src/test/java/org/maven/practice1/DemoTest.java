@@ -7,7 +7,8 @@ public class DemoTest
 	@Test
 	public void demotest()
 	{
-		System.out.println("hello");
+		System.out.println("helnnn");
 	}
-	
 }
+	
+
