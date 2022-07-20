@@ -11,6 +11,7 @@ public class DemoTest
 		System.out.println("tasta");
 		System.out.println("hiinji");
 		System.out.println("tasta");
+		System.out.println("tastkkla");
 
 		System.out.println("love");
 
