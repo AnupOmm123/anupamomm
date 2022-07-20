@@ -10,6 +10,7 @@ public class DemoTest
 		System.out.println("hiinji");
 		System.out.println("tasta");
 		System.out.println("anuo");
+		System.out.println("anuo");
 	}
 }
 	
