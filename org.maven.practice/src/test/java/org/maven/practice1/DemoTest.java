@@ -9,12 +9,12 @@ public class DemoTest
 	{
 		System.out.println("hiinji");
 		System.out.println("tasta");
-<<<<<<< HEAD
+
 		System.out.println("anuo");
 		System.out.println("anuo");
-=======
+
 		System.out.println("swiggy");
->>>>>>> branch 'sahoo' of https://github.com/AnupOmm123/anupamomm.git
+
 	}
 }
 	
