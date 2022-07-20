@@ -9,7 +9,7 @@ public class DemoTest
 	{
 		System.out.println("hiinji");
 		System.out.println("tasta");
-		System.out.println("anup");
+		System.out.println("anuo");
 	}
 }
 	
